@@ -1,4 +1,4 @@
-### Greetings! I'm Karasz, also known as Nagy Károly Gábriel
+### Greetings! I'm Karasz
 
 ## I'm a programmer an engineer and photography enthusiast!
 - Currently working on https://github.com/karasz/krong and https://github.com/darvaza-proxy/darvaza.
