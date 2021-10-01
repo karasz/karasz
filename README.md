@@ -1,6 +1,6 @@
 ### Greetings! I'm Karasz
 
-## I'm a programmer an engineer and photography enthusiast!
+## I'm a programmer, an engineer and photography enthusiast!
 - Currently working on https://github.com/karasz/krong and https://github.com/darvaza-proxy/darvaza.
 - Permanently looking for new challenges.
 - I like to shoot photos.
