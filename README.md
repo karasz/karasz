@@ -19,6 +19,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Karasz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karasz&show_icons=true&theme=radical&hide_border=true" />
+  <img align="left" alt="Karasz's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=karasz&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" />
 
 </details>
