@@ -1,6 +1,6 @@
 ### Greetings! I'm Karasz
 
-- Currently working on https://github.com/karasz/krong and https://github.com/darvaza-proxy/darvaza.
+- Currently working on https://github.com/karasz/krong and https://github.com/darvaza-proxy.
 - Permanently looking for new challenges.
 - I like to shoot photos.
 
