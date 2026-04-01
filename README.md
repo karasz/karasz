@@ -5,11 +5,11 @@
 - I like to shoot photos.
 
 ## Languages and Tools
-<img align="left" alt="Go" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
+<img align="left" alt="Go" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" />
 <img align="left" alt="Postgres" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
 <img align="left" alt="Github" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Bash" width="40px" src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
-<img align="left" alt="Git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" />
+<img align="left" alt="Bash" width="80px" src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
+<img align="left" alt="Git" width="80px" src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.svg" />
 
 <br />
 <br />
